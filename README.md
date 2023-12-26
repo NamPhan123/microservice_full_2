@@ -1,0 +1,3 @@
+- This is my Spring Boot microservices project.
+- The technology is Register Server, Config Server, API Gateway, Zipkin.
+- The services comunicate by API using WebClient.
